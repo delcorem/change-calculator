@@ -1,2 +1,2 @@
 
-void calcChange(moneyOwed, moneyPaid, change);
+void calcChange(float dollarsOwed, float dollarsPaid, int change[]);

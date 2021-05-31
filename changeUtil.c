@@ -1,7 +1,7 @@
 #include "changeUtil.h"
 
 //Calculates the change in terms of dollars, quarters, dimes, nickels, and pennies
-// 'moneyOwed' is --------, 'moneyPaid' is --------, and 'change' is -------
-void calcChange(moneyOwed, moneyPaid, change) {
+// 'dollarsOwed' is the money the user needs to pay in dollars, 'dollarsPaid' is --------, and 'change' is -------
+void calcChange(float dollarsOwed, float dollarsPaid, int change[]) {
 	
 }
