@@ -74,4 +74,6 @@ int main(int argc, char** argv) {
 	printf("\nDimes %d", change[2]);
 	printf("\nNickels %d", change[3]);
 	printf("\nPennies %d", change[4]);
+	
+	return 0;
 }
